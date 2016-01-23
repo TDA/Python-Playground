@@ -8,3 +8,7 @@ or Py3. I like calling them that :)
 * When possible/necessary I will be writing the same program in both Py2 and Py3, 
 just to showcase the differences between the two beautiful versions. 
 Yes, surprisingly, I love them both :)
+* So, you can simply use the diff tool (or textcompare is you prefer a browser 
+based version), to see how the code differs between versions. I believe this 
+will not only help me learn Py better, but also give me some solid examples 
+to explain with when I teach my own class someday :)
