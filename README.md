@@ -5,6 +5,8 @@
 because, Python. Play. Sounds better. 
 * Also, EIBTI, so will be specifying explicitly whether the program is in Py2 
 or Py3. I like calling them that :)
+* If the code is only differing in the print statements, it doesn't make sense to 
+repeat it, so I will just leave the file without a numeral suffix (_2 or _3).
 * When possible/necessary I will be writing the same program in both Py2 and Py3, 
 just to showcase the differences between the two beautiful versions. 
 Yes, surprisingly, I love them both :)
