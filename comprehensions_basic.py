@@ -19,3 +19,7 @@ print(odd_nos)
 # with filter
 even_nos = filter(even_filter, x)
 print(even_nos)
+
+# map sums to rows:
+sums = { i : sum(matrix[i]) for i in range(3)}
+print(sums)
