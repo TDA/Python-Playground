@@ -27,3 +27,10 @@ print(sums)
 # dicts with default values
 print(sums.get(1, 0))
 print(sums.get(3, 0))
+
+sums['a'] = "haha"
+
+print(sums)
+
+for key in sorted(sums):
+    print(key, sums[key])
