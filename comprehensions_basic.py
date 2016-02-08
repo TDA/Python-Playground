@@ -23,3 +23,7 @@ print(even_nos)
 # map sums to rows:
 sums = { i : sum(matrix[i]) for i in range(3)}
 print(sums)
+
+# dicts with default values
+print(sums.get(1, 0))
+print(sums.get(3, 0))
